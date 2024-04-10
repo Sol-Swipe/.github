@@ -1,4 +1,4 @@
-![Banner](images/banner.jpeg)
+![Banner](../images/banner.jpeg)
 # Welcome to SolSwipe! 🚀📱
 
 ## Who Are We? 🌟
