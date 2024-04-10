@@ -1,4 +1,4 @@
-![Banner]("https://github.com/Sol-Swipe/.github/blob/main/banner.jpeg)
+![Banner](banner.jpeg)
 # Welcome to SolSwipe! 🚀📱
 
 ## Who Are We? 🌟
