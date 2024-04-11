@@ -10,6 +10,15 @@ content creation and consumption!
 
 ## Features ✨
 
+- **Create a Profile**: Create a new Solswipe user profile using just your Solana wallet! Set a custom display name and
+  profile picture! Don't forget to update your bio and let the community know what your about!
+- **Follow Users**: Get your friends on Solswipe and follow them using either wallet address to be the first to see
+  their new Solswipe posts!
+- **Post**: Upload your personalized Solswipe content with just the click of a button! Remember, you own every piece of
+  content you post on Solswipe! If you want to remove a post, simply delete it and it will be removed from the Solana
+  blockchain forever!
+- **Comment**: Like your friends post? Let them know what you love about it by commenting on their posts!
+- **Like**: Like other users posts!
 - **Super Like**: Show your love by tipping creators with $swipes!
 - **Personalization**: Enjoy content tailored just for you with our cutting-edge AI.
 - **Earn**: Share in the revenue from all monetization activities simply by holding tokens!
