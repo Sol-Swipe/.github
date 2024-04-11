@@ -20,7 +20,7 @@ Here, we'll share regular updates on our journey, including new features, partne
 
 ### 🗓 April 10, 2024
 
-![Contract Testing With Dapp](2024-04-10.jpeg)
+![Contract Testing With Dapp](2024-04-10.png)
 
 Did some contract testing today with a quick boilerplate Dapp. Put together a simple UI using Material UI and developing
 with React. Functionality is robust and we officially have posted the first post on Solswipe! (on devnet lol 😛). Will
