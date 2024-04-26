@@ -27,6 +27,19 @@ content creation and consumption!
 
 Here, we'll share regular updates on our journey, including new features, partnerships, and milestones. Stay tuned!
 
+### 🗓 April 25, 2024
+
+![Contract Pagination](2024-04-25-01.png)
+![Central Backend For Liking](2024-04-25-02.png)
+
+*BIG UPDATES*:
+
+1. Refactored the contract for initial beta release. Decided to move liking of posts and commenting to be off-chain
+   since those can be stored centrally and will reduce impact on user as they won't have to accept a transaction and pay
+   a gas fee for every like/comment. In addition, replaced previous constant post/follower/following size to be dynamic by switching from a vector based data structure to a linked list. This involves creating new accounts that act as "pages" to allow for a linked-list approach to fetching user posts and not limiting the number of followers, following or posts a user can have.
+2. Created a small centralized backend API service to track and store likes and comments for posts. Unique identifiers are the PDA from the contract and only tracked items are the number of likes and the comments from users. 
+3. Finalizing mobile web application as per our design teams initial figma design. Will be posting more updates on this over the next coming days before we begin roll-out of the beta application!
+
 ### 🗓 April 10, 2024
 
 ![Contract Testing With Dapp](2024-04-10.png)
